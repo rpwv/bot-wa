@@ -14,18 +14,18 @@ const info = require("./lib/info.js");
 const intro = require("./lib/intro.js");
 const serverlist = require("./lib/serverlist.js");
 const serverphoenix = require("./lib/serverphoenix.js");
-const linkgrup = 'https://chat.whatsapp.com/DxdS1IGOuBrEVBo7cxgr7s'; // Link Grup Chat Bot wa Kau
+const linkgrup = 'https://wa.me/6285277262021'; // Link Grup Chat Bot wa Kau
 const speed = require('performance-now');
-const vcard = 'BEGIN:VCARD\n' // Yang Cuma Numpang Nama Doang anjim Emg
-            + 'VERSION:3.0\n' 
-            + 'FN:Ahmad (Owner Bot)\n' // di Ganti Auto eror
-            + 'ORG:Owner  Bot Ahmad;\n' // jangan di ganti nanti eror
-            + 'TEL;type=CELL;type=VOICE;waid=6283865614902:+62 838-6561-4902\n' // apalagi ini kalau diganti pasti eror
+const vcard = 'VCARD\n' // Yang Cuma Numpang Nama Doang anjim Emg
+            + 'VERSION:5.0\n' 
+            + 'FN:Oby (Owner Bot)\n' // di Ganti Auto eror
+            + 'ORG:Owner  Bot Dev;\n' // jangan di ganti nanti eror
+            + 'TEL;type=CELL;type=VOICE;waid=6285277262021:+62 852-7726-2021\n' // apalagi ini kalau diganti pasti eror
             + 'END:VCARD'
 //info.js jangan diubah woi Kalau Kau ubah Auto eror
-const BotName = 'BOT Ahmad'; // ini ganti woi
-const instagramlu = 'Ahmad'; // ini ganti woi
-const whatsapplu = '083865614902'; // ini ganti woi
+const BotName = 'Robby Pratama'; // ini ganti woi
+const instagramlu = 'officials_robby'; // ini ganti woi
+const whatsapplu = '085277262021'; // ini ganti woi
 const kapanbotaktif = 'gtw'; // ini ganti woi
 const grupch1 = 'gk ada'; // ini ganti woi
 const grupch2 = 'gk ada'; // ini ganti woi
